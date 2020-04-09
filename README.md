@@ -20,4 +20,9 @@ From the data set in step 4, creates a second, independent tidy data set with th
 Good luck!
 
 # How to Use
-By running script run_analysis.R in RStudio, 1) the traing and test sets are merged together 2) the mean and standard deviation are extracted 3) descriptive activity names are provided 4) descriptive variable names are provided and 5) a tidy data set (TidySet2) containing the average of each variable for each activty and subject is created.  
+By running script run_analysis.R in RStudio:
+1) the training and test sets are merged together 
+2) the mean and standard deviation are extracted 
+3) descriptive activity names are provided 
+4) descriptive variable names are provided 
+5) a tidy data set (TidySet2.txt) containing the average of each variable for each activty and subject is created  
